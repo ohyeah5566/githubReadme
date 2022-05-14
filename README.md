@@ -36,4 +36,9 @@ Jetpack的lifecycle<br/>
 Activity/Fragment轉場時過渡動畫的處理<br/>
 [transition](https://github.com/ohyeah5566/AndroidTransition)
 
+藉由儲存讀取local圖片 搞懂 internal, external storage(app scope, shared-storage)的差別<br/>
+在不用image load library的情況下讀取圖片並減少記憶體的使用<br/>
+[image load and file permission](https://github.com/ohyeah5566/ImageLoadWithoutGlideAndFileKnowledge)
 
+研究Paging的RemoteMediator 和 PagingSource<br/>
+[Paging](https://github.com/ohyeah5566/RemoteMediator)
